@@ -6,6 +6,11 @@
 
 提取码：zd68
 
+链接：https://pan.baidu.com/s/14BC-AI3JT57H5Y2Fu-udjQ 
+
+提取码：5tnv 
+
+
 ## root进程
 root进程代码在 ./app/jni
 该进程负责读取游戏内僵尸的坐标并使用udp转发.
